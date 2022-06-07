@@ -1,0 +1,6 @@
+transformers==4.14.0
+datasets==1.14.0
+torch==1.10.1
+nltk
+sklearn
+fire
